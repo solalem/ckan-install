@@ -1,3 +1,4 @@
+apt-get install python3-pip
 pip install -r https://raw.githubusercontent.com/ckan/ckan/ckan-2.9.2/requirements.txt
 pip install -r https://raw.githubusercontent.com/ckan/ckan/ckan-2.9.2/dev-requirements.txt
 cd /usr/lib/ckan/default/src
