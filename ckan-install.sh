@@ -35,3 +35,5 @@ sudo killall supervisord
 sudo supervisord -c /etc/supervisor/supervisord.conf
 sudo supervisorctl reload
 sudo supervisorctl status
+
+sudo service nginx restart
